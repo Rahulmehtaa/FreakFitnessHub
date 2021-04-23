@@ -1,0 +1,30 @@
+style{
+    body {
+        color: white;
+        margin: 0px;
+        padding: 0px;
+        background: url('img/bg.jpg');
+    }
+
+    .left {
+        display: inline-block;
+        border: 2px solid red;
+        position: absolute;
+        top: 34px;
+        left: 34px;
+    }
+
+    .mid {
+        display: block;
+        border: 2px solid red;
+        margin: 34px auto;
+        width: 36%;
+    }
+
+    .right {
+        display: inline-block;
+        border: 2px solid red;
+        position: absolute;
+        top: 34px;
+        right: 34px;
+}
